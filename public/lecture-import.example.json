@@ -1,0 +1,18 @@
+[
+  {
+    "id": "c11-physics-01",
+    "classLevel": 11,
+    "subject": "Physics",
+    "name": "Units and Measurements",
+    "order": 1,
+    "lectures": [
+      {
+        "id": "uom-lecture-01",
+        "title": "Lecture 01 \u2014 Introduction",
+        "duration": "45 min",
+        "telegramPostUrl": "https://t.me/channel_username/123",
+        "description": "Replace the example URL with a real public post link you are authorised to embed."
+      }
+    ]
+  }
+]
